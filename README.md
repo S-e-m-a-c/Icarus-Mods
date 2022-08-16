@@ -1,4 +1,4 @@
-Semac_IcarusOverhaul_V1.24
+Semac_IcarusOverhaul_V1.25
 
 Updated For Week 36
 
