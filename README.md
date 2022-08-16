@@ -825,6 +825,7 @@ D_VoxelSetupData.json
 DISCLAIMER:
 
 This mod is intended for offline and/or solo play. If you play with a regular group, please recommend all parties install the mod to prevent adverse effects. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)
+
 INSTALLATION:
 
 Go to your game files directory, go to "steamapps\common/Icarus\Icarus\Content\Paks\mods", if there is no "mods" folder, just create one and rename it. Drop the .pak file inside the "mods" folder, and you are done.
