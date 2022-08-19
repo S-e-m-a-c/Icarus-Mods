@@ -56,6 +56,9 @@ D_Alterations.json
 		Increased Prime_Meat_Yeild_2 = 20
 		Increased CropGrowthSpeed_3 = 75
 		Increased CropGrowthSpeed_4 = 100
+		Increased Carrying_Bonus_1 = 50 and 6
+		Increased Carrying_Bonus_2 = 100 and 12
+		Increased Stomach_Capacity_1 = 2 and 15							   															 
 		Increased Attacks_Cause_Shock_1 - BaseMeleeDamage = 20
 		Increased Attacks_Cause_Bleed_1 - BaseMeleeDamage = 20
 		Increased Attacks_Cause_Poison_1 - BaseMeleeDamage = 20
@@ -277,11 +280,11 @@ D_ItemsStatic.json
 		to prevent them from landing in the Hotbar when "Taking all"
 		from dropship
 		Meta Canteen and Meta Oxygen tank come Prefilled
-		Raplaced Meta Bangage with a Meta Lantern that comes Prefilled
+		Replaced Meta Bandage with a Meta Lantern that comes Prefilled
 		Meta Furnace now smelts the same as a Concrete Furnace 
 		Crocodile now needs a T2 Skinning Knife
 		Meta Radar does not need to go in G slot anymore
-		Electric Extractor Extracs a little faster now
+		Electric Extractor extracts a little faster now
 		Added JimK Pistols and Rifle data
 		Meta Bow Shengong Beta
 			- BaseBowReloadSpeed_+%\")": 15,
@@ -721,9 +724,10 @@ D_Equippable.json
 		Basic Quiver:
 			- BaseWeightCapacity_+\")": 25,
 			- BaseBowReloadSpeed_+%\")": 25,
+			- BaseArrowProjectileSpeed_+%\")": 10,
 			- BaseBowItemWear_+%\")": -50,
 			- BaseBowEquipSpeed_+%\")": 50,
-			- BaseBowAimDownSightsSpeed_+\")": 6,
+			- BaseBowAimDownSightsSpeed_+\")": 10,
 			- BaseExposureResistance_+%\")": 15,
 			- BaseMovementSpeed_+%\")": 10,
 			- BaseBackpackSlots_+\")": 6
