@@ -1,6 +1,6 @@
-Semac_IcarusOverhaul_V1.25
+Semac_IcarusOverhaul_V1.28
 
-Updated For Week 36
+Updated For Week 37
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
 other mods and combines it all, and also includes JimK_Weapons_Mod
@@ -269,6 +269,7 @@ D_ItemsStatic.json
 
 		All Meta Picks, Axes, Knives, Spears, Sickles and Hammers have
 		Attatchment Slots
+		All Meta Armour pieces have Attatchment Slots									   
 		Potbelly Stove now gives of heat like a Fireplace
 		Increased Hitpoints of Medium Hedgehogs
 		Food Decay times have been increased
