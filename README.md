@@ -272,7 +272,7 @@ D_ItemsStatic.json
 
 		All Meta Picks, Axes, Knives, Spears, Sickles and Hammers have
 		Attatchment Slots
-		All Meta Armour pieces have Attatchment Slots									   
+		All Meta Armour pieces have Attatchment Slots
 		Potbelly Stove now gives of heat like a Fireplace
 		Increased Hitpoints of Medium Hedgehogs
 		Food Decay times have been increased
