@@ -58,7 +58,7 @@ D_Alterations.json
 		Increased CropGrowthSpeed_4 = 100
 		Increased Carrying_Bonus_1 = 50 and 6
 		Increased Carrying_Bonus_2 = 100 and 12
-		Increased Stomach_Capacity_1 = 2 and 15							   															 
+		Increased Stomach_Capacity_1 = 2 and 15
 		Increased Attacks_Cause_Shock_1 - BaseMeleeDamage = 20
 		Increased Attacks_Cause_Bleed_1 - BaseMeleeDamage = 20
 		Increased Attacks_Cause_Poison_1 - BaseMeleeDamage = 20
