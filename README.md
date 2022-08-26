@@ -1,6 +1,6 @@
-Semac_IcarusOverhaul_V1.28
+Semac_IcarusOverhaul_V1.38
 
-Updated For Week 37
+Updated For Week 38
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
 other mods and combines it all, and also includes JimK_Weapons_Mod
@@ -62,6 +62,8 @@ D_Alterations.json
 		Increased Attacks_Cause_Shock_1 - BaseMeleeDamage = 20
 		Increased Attacks_Cause_Bleed_1 - BaseMeleeDamage = 20
 		Increased Attacks_Cause_Poison_1 - BaseMeleeDamage = 20
+		Added new Module_Capacity_1 alteration that adds 2 extra Module slots
+		Added new Module_Capacity_2 alteration that adds 4 extra Module slots
 		
 		
 D_ArmourSetBonus.json
@@ -124,17 +126,23 @@ D_ArmourSetBonus.json
 			- BaseMiningRewards_%\")": 25,
 			- BaseFellingRewards_%\")": 25
 			
+
+D_IcarusAttachments.json
+
+		Added Module_Capacity_1
+		Added Module_Capacity_2
+		
 	
 D_CraftingModifications.json
 
 
-		Added Rinforced_Building_Concrete to create Rinforced Concrete Pieces 
+		Added Renforced_Building_Concrete to create Renforced Concrete Pieces 
 		with Water in a Cement Mixer
 
 
 D_ProcessorRecipes.json
 
-
+		Adjusted crafting time of Arrows and Bolts
 		Stone Arrows are crafted 5 at a time
 		Bone Arrows are cheaper and crafted 5 at a time
 		Flint Arrows are crafted 5 at a time
@@ -153,13 +161,16 @@ D_ProcessorRecipes.json
 		Biofuel lamp requires Biofuel to craft but is Full when crafted
 		Rope is crafted 5 at a time
 		Epoxy is crafted 5 at a time
+		Adjusted crafting time of Epoxy
 		Gunpowder is crafted 5 at a time
 		Carbon Paste is crafted 2 at a time
 		Electronics is cheaper and crafted 5 at a time
 		Electric Furnace is cheaper to craft
 		Concrete Mix is crafted 5 at a time
 		Organic Resin is crafted 5 at a time
+		Adjusted crafting time of Organic Resin
 		Tree Sap is crafted 5 at a time
+		Adjusted crafting time of Tree Sap
 		Composite Paste is crafted 2 at a time
 		Electric Radar is cheaper to craft
 		Material Processor is cheaper to craft
@@ -194,6 +205,7 @@ D_ProcessorRecipes.json
 		Biofuel Deep Mining Drill recipe does not need electronics anymore
 		Electric Deep Mining Drill is cheaper to craft
 		Added Meta Repair Item recipe to Material Processor
+		Added the new Attachment_Module_Capacity_1 data
 		Added JimK Pistols to Fabricator
 		Added JimK Sniper Rifle to Fabricator
 		Added JimK Assault Rifles to Fabricator
@@ -214,6 +226,7 @@ D_ProcessorRecipes.json
 		Added some Bulk recipes to the Drying Rack
 		Added a Bulk Animal Fat recipe to the Cooking Station
 		Added Animal Fat recipe from other meat types to the Cooking Station
+		
 		
 		
 D_HordeWave.json
@@ -270,6 +283,9 @@ D_ItemRewards.json
 D_ItemsStatic.json
 
 
+		Increased Well rRested buff for Wood Bed to 900
+		Increased Well Rested Buff for Rustic Bed to 900
+		Increased Well Rested Buff for Interior Wood Bed to 1200
 		All Meta Picks, Axes, Knives, Spears, Sickles and Hammers have
 		Attatchment Slots
 		All Meta Armour pieces have Attatchment Slots
@@ -285,6 +301,7 @@ D_ItemsStatic.json
 		Crocodile now needs a T2 Skinning Knife
 		Meta Radar does not need to go in G slot anymore
 		Electric Extractor extracts a little faster now
+		Added new Body_Attachment_Module_Capacity data
 		Added JimK Pistols and Rifle data
 		Meta Bow Shengong Beta
 			- BaseBowReloadSpeed_+%\")": 15,
@@ -365,7 +382,9 @@ D_ItemTemplate.json
 
 		Increased Meta Coal Stack to 50
 		Increased all Meta Arrows stacks to 50
+		Increased all Meta Bolt stacks to 50
 		Increased Meta Repair Item stack to 10
+		Added new Body_Attachment_Module_Capacity data
 		Added JimK Pistols and Rifle data
 		Added Meta Lantern prefill data
 			
@@ -426,16 +445,21 @@ D_ModifierStates.json
 		Increased Food Recovery Penalty for Dysentery to -75
 		Increased Movement Speed Penalty for Poison to -15
 		Underground Debuff now Grants the following stats:
-			- BaseHealthRegen_+%\")": -50,
-			- BaseWaterConsumption_+%\")": -50,
-			- BaseMaximumStamina_+%\")": 100,
+			- BaseHealthRegen_+%\")": -25,
+			- BaseWaterConsumption_+%\")": 100,
+			- BaseOxygenConsumption_+%\")": 100,
+			- BaseMaximumStamina_+%\")": -25,
 			- BaseStaminaActionCost_+%\")": -25,
-			- BaseStaminaRegen_+%\")": 250
+			- BaseStaminaRegen_+%\")": 100
 		Pneumonia Debuff now Grants the following stats:
 			- BaseHealthRegen_+%\")": -50,
-			- BaseMaximumStamina_+%\")": 100,
-			- BaseStaminaRegen_+%\")": 250,
-			- BaseMovementSpeed_+\")": 100,
+			- BaseWaterConsumption_+%\")": 100,
+			- BaseOxygenConsumption_+%\")": 100,
+			- BaseFoodConsumption_+%\")": 100,
+			- BaseMaximumStamina_+%\")": -50,
+			- BaseStaminaActionCost_+%\")": -25,
+			- BaseMovementSpeed_+\")": -15,
+			- BaseStaminaRegen_+%\")": 100,
 			- BaseExperience_+%\")": -25
 		Increased Experience Penalty for Frostbite to -25
 		Increased Health Regen Penalty for Heatstroke to -15
@@ -748,7 +772,7 @@ D_Equippable.json
 			- BaseFirearmItemWear_+%\")": -30,
 			- BaseShotgunReloadSpeed_+%\")": 25,
 			- BaseBowReloadSpeed_+%\")": 30,
-			- BaseBowItemWear_+%\")": -30,            
+			- BaseBowItemWear_+%\")": -30,
 			- BaseHealthRegen_+%\")": 50,
 			- BaseStaminaRegen_+%\")": 50,
 			- BaseMaximumStomachFullness_+\")": 4,
@@ -798,6 +822,8 @@ D_Itemable.json
 		Scorpion Pincers now stack to 25
 		Scorpion Tails now stack to 25
 		Reduced weight of Wood Stacks to 30000
+		Added Item_Attachment_Module_Capacity_1
+		Added Item_Attachment_Module_Capacity_2
 		Added Mete Lantern
 		Added JimK Pistols
 		Added JimK Rifles
@@ -826,11 +852,11 @@ D_VoxelSetupData.json
 		Platinum Secondary Resource is Exotics
 		Titanium Secondary Resource is Exotics
 		
-		
+
 DISCLAIMER:
 
-This mod is intended for offline and/or solo play. If you play with a regular group, please recommend all parties install the mod to prevent adverse effects. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)
+This mod is intended for offline and/or solo play. If you play with a regular group, please recommend all parties install the mod to prevent adverse effects. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.) 
 
 INSTALLATION:
 
-Go to your game files directory, go to "steamapps\common/Icarus\Icarus\Content\Paks\mods", if there is no "mods" folder, just create one and rename it. Drop the .pak file inside the "mods" folder, and you are done.
+Go to your game files directory, go to "steamapps\common/Icarus\Icarus\Content\Paks\mods", if there is no "mods" folder, just create one and rename it. Drop the .pak file inside the "mods" folder, and you are done.		
