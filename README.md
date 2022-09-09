@@ -1,6 +1,6 @@
-Semac_IcarusOverhaul_V1.42
+Semac_IcarusOverhaul_V1.43
 
-Updated For Week 39
+Updated For Week 40
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
 other mods and combines it all, and also includes JimK_Weapons_Mod
@@ -100,15 +100,19 @@ D_ArmourSetBonus.json
 		Polarbear_5
 			- BaseColdResistance_%\")": 20,
 			- BaseArcticMovementSpeed_+%\")": 25,
-			- BaseAnimalThreatModifier_+%\")": -40
+			- BaseArcticAnimalThreatModifier_+%\")": -20,
+			- BaseArcticExposureResistance_+%\")": 25
 		Hunter_5
 			- BaseCrouchSpeed_+%\")": 25,
 			- BaseForestMovementSpeed_+%\")": 10,
-			- BaseAnimalThreatModifier_+%\")": -15,
+			- BaseAnimalThreatModifier_+%\")": -25,
 			- BaseStaminaRegen_+%\")": 15
 		Scorpion_5
 			- BaseProjectileDamageResistance_+%\")": 40,
-			- BaseCollisionDamageResistance_+%\")": 20
+			- BaseCollisionDamageResistance_+%\")": 20,
+			- BaseAnimalThreatModifier_+%\")": 20,
+			- BaseChanceToReturnDamage_%\")": 40,
+			- BaseDamageReturned_%\")": 20 
 		Carbon_Alpha_5
 			- BaseAnimalThreatModifier_+%\")": -35,
 			- BaseMeleeDamageResistance_+%\")": -15,
@@ -125,6 +129,12 @@ D_ArmourSetBonus.json
 			- BaseAxeStaminaActionCost_+%\")": -15,
 			- BaseMiningRewards_%\")": 25,
 			- BaseFellingRewards_%\")": 25
+		Advanced_Leather_5
+			- BaseHealthRegen_+%\")": 15,
+			- BaseStaminaRegen_+%\")": 15
+		Advanced_Cloth_5
+			- BaseDesertExposureResistance_+%\")": 15,
+			- BaseWaterConsumption_+%\")": -25
 
 
 D_IcarusAttachments.json
@@ -177,12 +187,9 @@ D_ProcessorRecipes.json
 		Composite Paste is crafted 2 at a time
 		Electric Radar is cheaper to craft
 		Material Processor is cheaper to craft
-		Stick recipe is cheaper to craft
 		BoltAction Rifle is cheaper to craft
 		Hunting Rifle is cheaper to craft
 		Glass Bottle wine is cheaper to craft
-		Jerrycan is cheaper to craft
-		Potbelly Stove is cheaper to craft
 		Metal Oxite Dissolver is cheaper to craft
 		Titanium Ingot is cheaper to craft
 		Platinum Ingot is cheaper to craft
@@ -193,7 +200,7 @@ D_ProcessorRecipes.json
 		Paste Water Consumption recipe changed to not use Sponge
 		Refrigerator is cheaper to craft
 		Glass building pieces are cheaper to craft
-		Steel Bloom is cheaper and crafted 5 at a time
+		Steel Bloom is crafted 5 at a time
 		Dehumidifier is cheaper to craft
 		Portable Beacon is cheaper to craft
 		Crushed Bone is crafted 5 at a time
@@ -208,7 +215,7 @@ D_ProcessorRecipes.json
 		Biofuel Deep Mining Drill recipe does not need electronics anymore
 		Electric Deep Mining Drill is cheaper to craft
 		Added Meta Repair Item recipe to Material Processor
-		Added the new Attachment_Module_Capacity data
+		Added the new Attachment_Module_Capacity_1 and 2
 		Added JimK Pistols to Fabricator
 		Added JimK Sniper Rifle to Fabricator
 		Added JimK Assault Rifles to Fabricator
@@ -278,6 +285,7 @@ D_ItemRewards.json
 		Increased Giant Steak drop chance
 		Increased White Meat drop chance
 		Increased Pumpkin harvest amount
+		Increased Squash harvest amount
 		Increased Carrot harvest amount
 		Increased Mushroom harvest amount
 		Increased Spoiled Crops amount
@@ -639,11 +647,11 @@ D_Armour.json
 		Added to Undersuit_Deluxe Resist Sprain 20
 		Added to Undersuit_Deluxe Heat Resistance 10
 		Added to Undersuit_Deluxe Cold Resistance 10
-		Increased Undersuit_Shengong Heat Resistance to 25
-		Added to Undersuit_Shengong Exposure Resistance 25
-		Increased Undersuit_Shengong_2 Cold Resistance to 25
-		Added to Undersuit_Shengong_2 Exposure Resistance 25
-		Added to Inaris_Envirosuit_Alpha Stealth Threat Modifier -15
+		Increased Undersuit_Shengong Heat Resistance to 20
+		Added to Undersuit_Shengong Exposure Resistance 20
+		Increased Undersuit_Shengong_2 Cold Resistance to 20
+		Added to Undersuit_Shengong_2 Exposure Resistance 20
+		Added to Inaris_Envirosuit_Alpha Stealth Threat Modifier -5
 		Added to Inaris_Envirosuit_Alpha Heat Resistance 5
 		Added to Inaris_Envirosuit_Alpha Cold Resistance 5
 		Added to Inaris_Envirosuit_Alpha Phisical Resistance 5 
@@ -711,7 +719,6 @@ D_Durable.json
 		Increased Durability of Hunting Rifle to 25000
 		Increased Durability of Pistol to 7500
 		Increased Durability of Bolt Action Rifle to 15000
-		Increased Durability of Meta Armour to 15000
 
 
 D_Energy.json
@@ -879,8 +886,8 @@ D_VoxelSetupData.json
 
 		Changed Gold Ore to require a T2 Pickaxe
 		All Secondary Resources will give more of the same type
-		Platinum Secondary Resource is Exotics
-		Titanium Secondary Resource is Exotics
+		Platinum Secondary Resource is Exotics only with Talent
+		Titanium Secondary Resource is Exotics only with Talent
 
 
 DISCLAIMER:
