@@ -1,6 +1,6 @@
-Semac_IcarusOverhaul_V1.43
+Semac_IcarusOverhaul_V1.44
 
-Updated For Week 40
+Updated For Week 41
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
 other mods and combines it all, and also includes JimK_Weapons_Mod
@@ -278,12 +278,6 @@ D_InventoryInfo.json
 D_ItemRewards.json
 
 
-		Increased Gamey Meat drop chance
-		Increased Stringy Meat drop chance
-		Increased Fatty T Bone drop chance
-		Increased Soft Meat drop chance
-		Increased Giant Steak drop chance
-		Increased White Meat drop chance
 		Increased Pumpkin harvest amount
 		Increased Squash harvest amount
 		Increased Carrot harvest amount
