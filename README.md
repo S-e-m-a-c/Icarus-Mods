@@ -363,7 +363,7 @@ D_ItemsStatic.json
 		Meta Pickaxe Larkwell	
 			- BaseToolStaminaActionCost_+%\")": -15,
 			- BaseMiningRewards_%\")": 15,
-			- BaseAxeAttackSpeed_+%\")": 10
+			- BasePickaxeAttackSpeed_+%\")": 10
 		Meta Hammer Larkwell
 			- BaseActionHoldTime_+%\")": -75,
 			- BaseExposureResistance_+%\")": 10
