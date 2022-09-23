@@ -1,6 +1,6 @@
-Semac_IcarusOverhaul_V1.44
+Semac_IcarusOverhaul_V1.45
 
-Updated For Week 41
+Updated For Week 42
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
 other mods and combines it all, and also includes JimK_Weapons_Mod
