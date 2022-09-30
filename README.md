@@ -1,6 +1,6 @@
-Semac_IcarusOverhaul_V1.45
+Semac_IcarusOverhaul_V1.46
 
-Updated For Week 42
+Updated For Week 43
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
 other mods and combines it all, and also includes JimK_Weapons_Mod
@@ -24,6 +24,7 @@ D_AISpawnZones.json
 		Kea's, Jaguars, Lions, Crocodiles and Komodos now spawn on Olympus
 		and Styx maps
 		Increased the spawn level of creatures on Olympus and Styx maps
+		Added Moa Spawns to Olympus Desert
 
 
 D_AutonomousSpawns.json
@@ -272,7 +273,7 @@ D_InventoryInfo.json
 		Increased Farming Crop Plot Fertilizer to 2 slots
 		Increased Sulfur Fuel slots to 2
 		Increased Drying Rack to 18 slots
-		Increased Mount Cargo to 6 slots (Furure Content)
+		Increased Food Trough slots
 
 
 D_ItemRewards.json
@@ -363,7 +364,7 @@ D_ItemsStatic.json
 		Meta Pickaxe Larkwell	
 			- BaseToolStaminaActionCost_+%\")": -15,
 			- BaseMiningRewards_%\")": 15,
-			- BasePickaxeAttackSpeed_+%\")": 10
+			- BasePickxeAttackSpeed_+%\")": 10
 		Meta Hammer Larkwell
 			- BaseActionHoldTime_+%\")": -75,
 			- BaseExposureResistance_+%\")": 10
@@ -686,6 +687,7 @@ D_Consumable.json
 		Increased Duration of Meta_Stamina_Gel to 10800
 		Increased Duration of Meta Food Packets to 10800
 		Increased Duration of all Thermos Drinks to 1800
+		Added BaseHealthRegen to all Bandages
 
 
 D_Decayable.json
@@ -696,6 +698,7 @@ D_Decayable.json
 		Increased Decay Timer of Arrows to 300
 		Increased Decay Timer of Knives to 300
 		Increased Decay Timer of Spears to 300
+		Increased Decay Timer of Meta_Items to 3600
 
 
 D_Durable.json
@@ -814,6 +817,23 @@ D_Equippable.json
 			- BaseWoodCarryWeight_+%\")": -50,
 			- BaseExoticCarryWeight_+%\")": -50,
 			- BaseStoneCarryWeight_+%\")": -50
+		Saddle_Standard
+			- BaseMovementSpeed_+%\")": 25,
+			- BaseMaximumStamina_+%\")": 35,
+			- BaseWeightCapacity_+\")": 75,
+			- BaseAnimalThreatModifier_+%\")": -75,
+			- BaseHealthRegen_+%\")": 20,
+			- BaseStaminaRegen_+%\")": 50,
+			- BaseMountCargoSlots_+\")": 4
+		Saddle_Cargo
+			- BaseMovementSpeed_+%\")": 15,
+			- BaseMaximumStamina_+%\")": 45,
+			- BaseMountCargoSlots_+\")": 24,
+			- BaseWeightCapacity_+\")": 200,
+			- BaseAnimalThreatModifier_+%\")": -75,
+			- BaseHealthRegen_+%\")": 20,
+			- BaseStaminaRegen_+%\")": 50,
+			- IsSaddleCargoUseOnly_?\")": 1
 
 
 D_Fillable.json
@@ -890,4 +910,4 @@ This mod is intended for offline and/or solo play. If you play with a regular gr
 
 INSTALLATION:
 
-Go to your game files directory, go to "steamapps\common/Icarus\Icarus\Content\Paks\mods", if there is no "mods" folder, just create one and rename it. Drop the .pak file inside the "mods" folder, and you are done.
+Go to your game files directory, go to "steamapps\common\Icarus\Icarus\Content\Paks\mods", if there is no "mods" folder, just create one and rename it. Drop the .pak file inside the "mods" folder, and you are done.
