@@ -1,6 +1,8 @@
-Semac_IcarusOverhaul_V1.46
+Semac_IcarusOverhaul_V1.47
 
-Updated For Week 43
+Updated For Week 43 BugFix
+
+Includes Arrow Set Bug fix (Sets of arrows and bolts will not get loaded into Bows and Crossbows anymore)
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
 other mods and combines it all, and also includes JimK_Weapons_Mod
