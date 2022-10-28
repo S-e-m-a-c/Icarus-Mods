@@ -1,6 +1,6 @@
 Semac_IcarusOverhaul_V1.48
 
-Updated For Week 46
+Updated For Week 47
 
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
@@ -547,16 +547,9 @@ D_StatAfflictions.json
 D_ProspectList.json
 
 
-		Replaced Forrest Outpost with Full Styx Map
 		Increased SPIRIT WALK: Exploration Exotic Veins to 6 
-		Increased SPIRIT WALK: Exploration Exotics per Vein to 400-800
-		Added World Bosses to Olympus and Styx Outposts
 
 
-D_ProspectStats.json
-
-
-		Added Styx Outpost Creature Spawns for Easy, Medium and Hard
 
 
 D_Talents.json
