@@ -1,6 +1,6 @@
 Semac_IcarusOverhaul_V1.48
 
-Updated For Week 47
+Updated For Week 48
 
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
@@ -347,7 +347,6 @@ D_ItemsStatic.json
 			- BaseAxeAttackSpeed_+%\")": 10
 		Meta Knife Inaris Alpha
 			- BaseWoundResistance_%\")": 100,
-			- HighlightThrownKnife_?\")": 1
 		Meta Pickaxe Inaris Alpha
 			- BaseOverencumberedPenalty_+%\")": -50,
 			- BaseMiningRewards_%\")": 15,
@@ -377,7 +376,6 @@ D_ItemsStatic.json
 			- BaseToolStaminaActionCost_+%\")": -15,
 			- BaseSkinningRewards_+%\")": 25,
 			- BaseSkinningSpeed_+%\")": 25,
-			- HighlightThrownKnife_?\")": 1
 		Meta Bow Larkwell
 			- BaseBowChargeSpeed_+%\")": 30,
 			- BaseArrowProjectileSpeed_+%\")": 50,
