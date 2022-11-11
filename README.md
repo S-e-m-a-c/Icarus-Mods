@@ -1,6 +1,6 @@
 Semac_IcarusOverhaul_V1.48
 
-Updated For Week 48
+Updated For Week 49
 
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
@@ -286,8 +286,6 @@ D_ItemRewards.json
 		Increased Mushroom harvest amount
 		Increased Spoiled Crops amount
 		Increased Horde Mode Completion Meta Resource drop
-		Creatures have a chance to drop some random items (Beer, Iron Knife,
-		Armour Pieces)
 
 
 D_ItemsStatic.json
