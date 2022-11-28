@@ -2,6 +2,12 @@ Semac_IcarusOverhaul_V1.48
 
 Updated For Week 51
 
+Use any one of the 3 versions (Do not use them at the same time)
+
+Semac_IcarusOverhaul			- Base Modpack
+Semac_IcarusOverhaul_Thor		- Adds the Thor Dev Hammer in Meta Ration's place
+Semac_IcarusOverhaulExtreme	- Changed Hard Mode to Extra Hard (Be Prepaired)
+
 
 This Modpack changes a little of almost everything in the game with ideas taken from 
 other mods and combines it all, and also includes JimK_Weapons_Mod
