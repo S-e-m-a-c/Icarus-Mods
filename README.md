@@ -1,6 +1,6 @@
-Semac_IcarusOverhaul_V1.48
+Semac_IcarusOverhaul_V1.51
 
-Updated For Week 52
+Updated For Week 53
 
 Use any one of the 3 versions (Do not use them at the same time)
 
@@ -244,6 +244,7 @@ D_ProcessorRecipes.json
 		Added a Rope from Fur recipe to the Textiles Bench
 		Added some Bulk food recipes to the Potbelly Stove
 		Added some Bulk food recipes to the Kitchen Stove
+		Added some Bulk food recipes to the Electric Stove
 		Added some Bulk recipes to the Drying Rack
 		Added a Bulk Animal Fat recipe to the Cooking Station
 		Added Animal Fat recipe from other meat types to the Cooking Station
@@ -321,6 +322,7 @@ D_ItemsStatic.json
 		Electric Extractor extracts a little faster now
 		Added new Body_Attachment_Module_Capacity data
 		Added JimK Pistols and Rifle data
+		Pistol, Rifle and Sniper ammo now cause bleed on target
 		Meta Bow Shengong Beta
 			- BaseBowReloadSpeed_+%\")": 15,
 			- BaseBowCriticalDamage_+%\")": 10
@@ -370,7 +372,7 @@ D_ItemsStatic.json
 			- BasePickaxeItemWear_+%\")": -25
 		Meta Pickaxe Larkwell	
 			- BaseToolStaminaActionCost_+%\")": -15,
-			- BaseMiningRewards_%\")": 15,
+			- BaseMiningRewards_%\")": 5,
 			- BasePickaxeAttackSpeed_+%\")": 10
 		Meta Hammer Larkwell
 			- BaseActionHoldTime_+%\")": -75,
@@ -381,7 +383,7 @@ D_ItemsStatic.json
 			- BaseAttackSpeed_+%\")": 30
 		Meta Knife Larkwell
 			- BaseToolStaminaActionCost_+%\")": -15,
-			- BaseSkinningRewards_+%\")": 25,
+			- BaseSkinningRewards_+%\")": 5,
 			- BaseSkinningSpeed_+%\")": 25,
 		Meta Bow Larkwell
 			- BaseBowChargeSpeed_+%\")": 30,
@@ -678,6 +680,10 @@ D_Consumable.json
 		Increased Duration of all Health Pastes to 300
 		Increased Duration of all Stamina Pastes to 300
 		Increased Duration of all Oxygen Pastes to 300
+		Increased Duration of Health Tonic to 300
+		Increased Duration of Stamina Tonic to 300
+		Increased Duration of Sustenence Tonic to 300
+		Increased Duration of Strength Tonic to 300
 		Increased Duration of Oxygen, Water, Food and Stamina Consumption Pastes to 600
 		Increased Amount Healed by Health Paste to 75
 		Increased Amount Restored by Stamina Pate to 75
