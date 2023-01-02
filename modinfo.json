@@ -3,29 +3,29 @@
     {
       "name": "Semac_IcarusOverhaul",
       "author": "Semac",
-      "version": "1.51",
+      "version": "1.52",
       "compatibility": "w56",
       "description": "Changes a little of almost everything.",
       "fileType": "pak",
-      "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_v1.51_P.pak"
+      "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_v1.52_P.pak"
     },
     {
       "name": "Semac_IcarusOverhaul_Thor",
       "author": "Semac",
-      "version": "1.51",
+      "version": "1.52",
       "compatibility": "w56",
       "description": "Same as Semac_IcarusOverhaul but the Thor Dev Hammer is added.",
       "fileType": "pak",
-      "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_Thor_v1.51_P.pak"
+      "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_Thor_v1.52_P.pak"
     },
     {
       "name": "Semac_IcarusOverhaulExtreme",
       "author": "Semac",
-      "version": "1.51",
+      "version": "1.52",
       "compatibility": "w56",
       "description": "An Extreme version of Semac_IcarusOverhaul, Hard difficulty is turned up to 11.",
       "fileType": "pak",
-      "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaulExtreme_v1.51_P.pak"
+      "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaulExtreme_v1.52_P.pak"
     },
     {
       "name": "Semac_Meta_Lantern",

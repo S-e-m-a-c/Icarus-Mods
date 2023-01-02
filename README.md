@@ -1,4 +1,4 @@
-Semac_IcarusOverhaul_V1.51
+Semac_IcarusOverhaul_V1.52
 
 Updated For Week 56
 
@@ -839,6 +839,12 @@ D_Equippable.json
 			- BaseHealthRegen_+%\")": 20,
 			- BaseStaminaRegen_+%\")": 50,
 			- IsSaddleCargoUseOnly_?\")": 1
+		Saddle_Cart
+			- BaseMountCargoSlots_+\")": 90,
+			- IsSaddleCargoUseOnly_?\")": 1,
+			- BaseWeightCapacity_+\")": 2500,
+			- BaseAnimalThreatModifier_+%\")": -75,
+			- BaseMovementSpeed_+\")": -5
 
 
 D_Fillable.json
