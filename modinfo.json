@@ -4,8 +4,9 @@
       "name": "Semac_IcarusOverhaul",
       "author": "Semac",
       "version": "1.52",
-      "compatibility": "w57",
+      "compatibility": "w58",
       "description": "Changes a little of almost everything.",
+	  "long_description": "This Modpack changes a little of almost everything in the game with ideas taken from other mods and combines it all, and also includes JimK_Weapons_Mod",
       "fileType": "pak",
       "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_v1.52_P.pak"
     },
@@ -13,8 +14,9 @@
       "name": "Semac_IcarusOverhaul_Thor",
       "author": "Semac",
       "version": "1.52",
-      "compatibility": "w57",
+      "compatibility": "w58",
       "description": "Same as Semac_IcarusOverhaul but the Thor Dev Hammer is added.",
+	  "long_description": "This Modpack changes a little of almost everything in the game with ideas taken from other mods and combines it all, and also includes JimK_Weapons_Mod, with Thor Dev Hammer",
       "fileType": "pak",
       "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_Thor_v1.52_P.pak"
     },
@@ -22,8 +24,9 @@
       "name": "Semac_IcarusOverhaulExtreme",
       "author": "Semac",
       "version": "1.52",
-      "compatibility": "w57",
+      "compatibility": "w58",
       "description": "An Extreme version of Semac_IcarusOverhaul, Hard difficulty is turned up to 11.",
+	  "long_description": "This Modpack changes a little of almost everything in the game with ideas taken from other mods and combines it all, and also includes JimK_Weapons_Mod, Hard mode has Creature Speed Damage HP and spawn rates increased, also added 5 x Death Respawns instead of 3",
       "fileType": "pak",
       "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaulExtreme_v1.52_P.pak"
     },
@@ -31,8 +34,9 @@
       "name": "Semac_Meta_Lantern",
       "author": "Semac",
       "version": "1.00",
-      "compatibility": "w57",
+      "compatibility": "w58",
       "description": "Replaces the Meta Bandage with a refillable Lantern (Included with the Overhaul mods).",
+	  "long_description": "Same as above",
       "fileType": "pak",
       "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_Meta_Lantern_v1.00_P.pak"
     }
