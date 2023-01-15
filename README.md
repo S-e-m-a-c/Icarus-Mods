@@ -1,34 +1,33 @@
-Semac_IcarusOverhaul_V1.52
+__Semac_IcarusOverhaul_V1.52__
 
-Updated For Week 58
+Updated For Week *__58__*
 
-Use any one of the 3 versions (Do not use them at the same time)
+Use any one of the 3 Overhaul versions (Do not use them at the same time)
 
 Semac_IcarusOverhaul - Base Modpack
 
 Semac_IcarusOverhaul_Thor - Adds the Thor Dev Hammer in Meta Ration's place
 
-Semac_IcarusOverhaulExtreme - Changed Hard Mode to Extra Hard (Be Prepaired, adds spawn rates, more hp, harder hitting, faster mobs. it also gives you 5 respawns instead of 3 and more EXP)
+Semac_IcarusOverhaulExtreme - Changed Hard Mode to Extra Hard (Be Prepaired, adds spawn rates, more hp, harder hitting, faster mobs. it also gives you 5 respawns instead of 3 and more experience)  
 
-Semac_Meta_Lantern - This just adds a Meta Lantern that is Fillible to the first Bandage slot in the workshop as a standalone (Already Included in the Overhaul packs)
+Semac_Meta_Lantern - This is a standalone mod that adds a Meta Lantern that is Fillible to the first Bandage slot in the workshop as a standalone (Already Included in the Overhaul packs)
 
-This Modpack changes a little of almost everything in the game with ideas taken from 
-other mods and combines it all, and also includes JimK_Weapons_Mod
+*This Modpack changes a little of almost everything in the game with ideas taken from other mods and combines it all, and also includes JimK_Weapons_Mod*  
 
 I recommend to use TheOrangeFloof's Floof_LevelingMod with this pack
 
 Big shoutout and thanks to Jimk72, Critical_Fail, TheOrangeFloof, Pr0f3ss0R and BYR4M
 
-Change Notes:
+> Change Notes:
 
-D_AISpawnRules.json
+__D_AISpawnRules.json__
 
 
 		Bear, Polarbear, MammothArctic and MammothDesert Population groups
 		changed from 1 to 3
 
 
-D_AISpawnZones.json
+__D_AISpawnZones.json__
 
 
 		Kea's, Jaguars, Lions, Crocodiles and Komodos now spawn on Olympus
@@ -37,13 +36,13 @@ D_AISpawnZones.json
 		Added Moa Spawns to Olympus Desert
 
 
-D_AutonomousSpawns.json
+__D_AutonomousSpawns.json__
 
 
 		Reduced the MaxSpawnCount of Kea's to 10
 
 
-D_Alterations.json
+__D_Alterations.json__
 
 
 		Increased Reinforced_Building = 500
@@ -77,7 +76,7 @@ D_Alterations.json
 		Added new Module_Capacity_2 alteration that adds 4 extra Module slots
 
 
-D_ArmourSetBonus.json
+__D_ArmourSetBonus.json__
 
 
 		Cloth_5 
@@ -148,21 +147,21 @@ D_ArmourSetBonus.json
 			- BaseWaterConsumption_+%\")": -25
 
 
-D_IcarusAttachments.json
+__D_IcarusAttachments.json__
 
 
 		Added Module_Capacity_1
 		Added Module_Capacity_2
 
 
-D_CraftingModifications.json
+__D_CraftingModifications.json__
 
 
 		Added Renforced_Building_Concrete to create Renforced Concrete Pieces 
 		with Water in a Cement Mixer
 
 
-D_ProcessorRecipes.json
+__D_ProcessorRecipes.json__
 
 
 		Adjusted crafting time of Arrows and Bolts
@@ -254,13 +253,13 @@ D_ProcessorRecipes.json
 		Added new recipe for Poison_Sack using Poison_Sack
 
 
-D_HordeWave.json
+__D_HordeWave.json__
 
 
 		Reduced time between Pack spawns to have less downtime
 
 
-D_InventoryInfo.json
+__D_InventoryInfo.json__
 
 
 		Increased Fuel slots to 2 for everything that uses Fuel
@@ -287,7 +286,7 @@ D_InventoryInfo.json
 		Increased Food Trough slots
 
 
-D_ItemRewards.json
+__D_ItemRewards.json__
 
 
 		Increased Pumpkin harvest amount
@@ -298,24 +297,21 @@ D_ItemRewards.json
 		Increased Horde Mode Completion Meta Resource drop
 
 
-D_ItemsStatic.json
+__D_ItemsStatic.json__
 
 
 		Increased Well Rested buff for Wood Bed to 900
 		Increased Well Rested Buff for Rustic Bed to 900
 		Increased Well Rested Buff for Interior Wood Bed to 1200
-		All Meta Picks, Axes, Knives, Spears, Sickles and Hammers have
-		Attatchment Slots
+		All Meta Picks, Axes, Knives, Spears, Sickles and Hammers have Attatchment Slots  
 		All Meta Armour pieces have Attatchment Slots
 		All Meta Bows and Crossbows have Attachment slots
 		Potbelly Stove now gives of heat like a Fireplace
 		Increased Hitpoints of Medium Hedgehogs
 		Food Decay times have been increased
-		Removed Item.Equip.Quickbar from Meta Canteen and Meta Oxygen tank
-		to prevent them from landing in the Hotbar when "Taking all"
-		from dropship
-		Meta Canteen and Meta Oxygen tank come Prefilled
-		Replaced Meta Bandage with a Meta Lantern that comes Prefilled
+		Removed Item.Equip.Quickbar from Meta Canteen and Meta Oxygen tank to prevent them from landing in the Hotbar when "Taking all" from dropship  
+		Meta Canteen and Meta Oxygen tank come Prefilled (Curently not working, but does save fill state when returning to orbit  
+		Replaced Meta Bandage with a Meta Lantern that can be refilled
 		Meta Furnace now smelts the same as a Concrete Furnace 
 		Crocodile now needs a T2 Skinning Knife
 		Meta Radar does not need to go in G slot anymore
@@ -395,7 +391,7 @@ D_ItemsStatic.json
 			- BaseBowProjectileDamage_+%\")": 25
 
 
-D_ItemTemplate.json
+__D_ItemTemplate.json__
 
 
 		Increased Meta Coal Stack to 50
@@ -407,7 +403,7 @@ D_ItemTemplate.json
 		Added Meta Lantern prefill data
 
 
-D_AfflictionChance.json
+__D_AfflictionChance.json__
 
 
 		Increased Fish Bite Poison duration to 600
@@ -422,7 +418,7 @@ D_AfflictionChance.json
 		Increased Heatstroke chance to 15
 
 
-D_ModifierStates.json
+__D_ModifierStates.json__
 
 
 		Increased Tick damage for multiple effects 
@@ -541,7 +537,7 @@ D_ModifierStates.json
 			- BaseColdResistance_%\")": 25
 
 
-D_StatAfflictions.json
+__D_StatAfflictions.json__
 
 
 		Increased Slow Duration to 10
@@ -551,7 +547,7 @@ D_StatAfflictions.json
 		Increased Minor Hemorrage Duration to 60
 
 
-D_ProspectList.json
+__D_ProspectList.json__
 
 
 		Increased SPIRIT WALK: Exploration Exotic Veins to 6 
@@ -559,7 +555,7 @@ D_ProspectList.json
 
 
 
-D_Talents.json
+__D_Talents.json__
 
 
 		"Waste Not" Talent changed to "What's This?"
@@ -569,7 +565,7 @@ D_Talents.json
 		Increased Stomach Slot for "Food Pyramid" Talent to 2
 
 
-D_AmmoTypes.json
+__D_AmmoTypes.json__
 
 
 		Increased Shotgun Bullet Damage to 10-40
@@ -579,7 +575,7 @@ D_AmmoTypes.json
 		Added Sniper Round For JimK Sniper Rifle
 
 
-D_FirearmData.json
+__D_FirearmData.json__
 
 
 		Adjusted Longbow Values 
@@ -592,7 +588,7 @@ D_FirearmData.json
 		Added JimK Sniper Rifle
 
 
-D_ToolDamage.json
+__D_ToolDamage.json__
 
 
 		Increased Meta_Axe_Inaris Efficiency to 1.5
@@ -615,13 +611,13 @@ D_ToolDamage.json
 		Increased Meta_Sickle_Larkwell Damage to 55
 
 
-D_Actionable.json
+__D_Actionable.json__
 
 
 		Added JimK Assualt Rifle and Spiper Rifle
 
 
-D_Armour.json
+__D_Armour.json__
 
 
 		All Undersuits now have Oxygen Food and Water slots
@@ -661,7 +657,7 @@ D_Armour.json
 		Added Sprain Duration Reduction to all Feet Armour Pieces
 
 
-D_Ballistic.json
+__D_Ballistic.json__
 
 
 		Increased Damage of Meta_Arrow_Larkwell_Ballistic to 100
@@ -673,7 +669,7 @@ D_Ballistic.json
 		Added JimK Sniper Round
 
 
-D_Consumable.json
+__D_Consumable.json__
 
 
 		Increased Duration of all Food Buffs to 900-1200
@@ -684,7 +680,7 @@ D_Consumable.json
 		Increased Duration of Stamina Tonic to 300
 		Increased Duration of Sustenence Tonic to 300
 		Increased Duration of Strength Tonic to 300
-		Increased Duration of Oxygen, Water, Food and Stamina Consumption Pastes to 600
+		Increased Duration of Oxygen, Water, Food and Stamina Consumption Pastes to 600  
 		Increased Amount Healed by Health Paste to 75
 		Increased Amount Restored by Stamina Pate to 75
 		Increased Duration of all Oxygen Pastes
@@ -695,7 +691,7 @@ D_Consumable.json
 		Added BaseHealthRegen to all Bandages
 
 
-D_Decayable.json
+__D_Decayable.json__
 
 
 		Increased Decay timer of Generic Food to 1200
@@ -706,7 +702,7 @@ D_Decayable.json
 		Increased Decay Timer of Meta_Items to 3600
 
 
-D_Durable.json
+__D_Durable.json__
 
 
 		Increased Durability of Larwell Items to 75000
@@ -723,14 +719,14 @@ D_Durable.json
 		Increased Durability of Bolt Action Rifle to 15000
 
 
-D_Energy.json
+__D_Energy.json__
 
 
 		Increased Energy Provided by Generator to 20000
 		Increased Energy Provided by Solar Panel to 10000
 
 
-D_Equippable.json
+__D_Equippable.json__
 
 
 		Movement Speed Module:
@@ -847,7 +843,7 @@ D_Equippable.json
 			- BaseMovementSpeed_+\")": -5
 
 
-D_Fillable.json
+__D_Fillable.json__
 
 
 		Decreased Stored Units of Shengong Canteen to 6000
@@ -857,7 +853,7 @@ D_Fillable.json
 		Added Meta Lantern Item
 
 
-D_Generator.json
+__D_Generator.json__
 
 
 		Increased Kit_Generator_Energy_Generator Generation Rate to 20000
@@ -865,7 +861,7 @@ D_Generator.json
 		Increased Solar Panel Generator Generation Rate to 10000
 
 
-D_Itemable.json
+__D_Itemable.json__
 
 
 		Increased Stack Sizes of most items
@@ -890,7 +886,7 @@ D_Itemable.json
 		Added JimK Sniper Round
 
 
-D_Meshable.json
+__D_Meshable.json__
 
 
 		Added JimK Pistols
@@ -898,7 +894,7 @@ D_Meshable.json
 		Added JimK Sniper Rifle
 
 
-D_OreDeposit.json
+__D_OreDeposit.json__
 
 
 		Decreased Exotic Mining time to 5
@@ -906,7 +902,7 @@ D_OreDeposit.json
 		Increased all Deep Mining Veins Ore amount
 
 
-D_VoxelSetupData.json
+__D_VoxelSetupData.json__
 
 
 		Changed Gold Ore to require a T2 Pickaxe
@@ -915,10 +911,11 @@ D_VoxelSetupData.json
 		Titanium Secondary Resource is Exotics only with Talent
 
 
-DISCLAIMER:
+*__DISCLAIMER:__*
 
-This mod is intended for offline and/or solo play. If you play with a regular group, please recommend all parties install the mod to prevent adverse effects. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)
+This mod is intended for offline and/or solo play. If you play with a regular group, please recommend all parties install the mod to prevent adverse effects. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)    
 
-INSTALLATION:
+*__INSTALLATION:__*
 
-Go to your game files directory, go to "steamapps\common\Icarus\Icarus\Content\Paks\mods", if there is no "mods" folder, just create one and rename it. Drop the .pak file inside the "mods" folder, and you are done.
+Go to your game files directory, go to "steamapps\common\Icarus\Icarus\Content\Paks\mods", if there is no "mods" folder, just create one and rename it. Drop the .pak file inside the "mods" folder, and you are done.  
+If you intend to use this mod with any other mods, you need to use [Mod Manager](https://github.com/Jimk72/Icarus_Software) to merge with other mods.
