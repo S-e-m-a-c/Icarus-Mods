@@ -10,7 +10,7 @@
       "fileType": "pak",
       "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_v1.52_P.pak",
 	  "imageURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_Overhaul.png",
-	  "readmeURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/S-e-m-a-c/Icarus-Mods/main/README.md"
     },
     {
       "name": "Semac_IcarusOverhaul_Thor",
@@ -22,7 +22,7 @@
       "fileType": "pak",
       "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_Thor_v1.52_P.pak",
 	  "imageURL": "https://github.com/S-e-m-a-c/Icarus-Mods/blob/raw/Semac_Overhaul.png",
-	  "readmeURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/S-e-m-a-c/Icarus-Mods/main/README.md"
     },
     {
       "name": "Semac_IcarusOverhaulExtreme",
@@ -34,7 +34,7 @@
       "fileType": "pak",
       "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaulExtreme_v1.52_P.pak",
 	  "imageURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_Overhaul.png",
-	  "readmeURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/S-e-m-a-c/Icarus-Mods/main/README.md"
     },
     {
       "name": "Semac_Meta_Lantern",
@@ -46,7 +46,7 @@
       "fileType": "pak",
       "fileURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_Meta_Lantern_v1.00_P.pak",
 	  "imageURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_Overhaul.png",
-	  "readmeURL": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/README.md"
+	  "readmeURL": "https://raw.githubusercontent.com/S-e-m-a-c/Icarus-Mods/main/README.md"
     }
   ]
 }
