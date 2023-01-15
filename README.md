@@ -10,7 +10,7 @@ Semac_IcarusOverhaul_Thor - Adds the Thor Dev Hammer in Meta Ration's place
 
 Semac_IcarusOverhaulExtreme - Changed Hard Mode to Extra Hard (Be Prepaired, adds spawn rates, more hp, harder hitting, faster mobs. it also gives you 5 respawns instead of 3 and more experience)  
 
-Semac_Meta_Lantern - This is a standalone mod that adds a Meta Lantern that is Fillible to the first Bandage slot in the workshop as a standalone (Already Included in the Overhaul packs)
+Semac_Meta_Lantern - This is a standalone mod that adds a Meta Lantern that is Fillible to the first Bandage slot in the workshop (Already Included in the Overhaul packs)
 
 *This Modpack changes a little of almost everything in the game with ideas taken from other mods and combines it all, and also includes JimK_Weapons_Mod*  
 
