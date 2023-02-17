@@ -4,7 +4,7 @@
       "name": "Semac_IcarusOverhaul",
       "author": "Semac",
       "version": "1.52",
-      "compatibility": "w62",
+      "compatibility": "w63",
       "description": "Changes a little of almost everything, Check Readme.",
       "files": {
         "pak": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_v1.52_P.pak",
@@ -17,7 +17,7 @@
       "name": "Semac_IcarusOverhaul_Thor",
       "author": "Semac",
       "version": "1.52",
-      "compatibility": "w62",
+      "compatibility": "w63",
       "description": "Same as Semac_IcarusOverhaul but the Thor Dev Hammer is added.",
       "files": {
         "pak": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaul_Thor_v1.52_P.pak",
@@ -30,7 +30,7 @@
       "name": "Semac_IcarusOverhaulExtreme",
       "author": "Semac",
       "version": "1.52",
-      "compatibility": "w62",
+      "compatibility": "w63",
       "description": "An Extreme version of Semac_IcarusOverhaul, Hard difficulty is turned up to 11.",
       "files": {
         "pak": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_IcarusOverhaulExtreme_v1.52_P.pak",
@@ -43,7 +43,7 @@
       "name": "Semac_Meta_Lantern",
       "author": "Semac",
       "version": "1.00",
-      "compatibility": "w62",
+      "compatibility": "w63",
       "description": "Replaces the Meta Bandage with a refillable Lantern (Included with the Overhaul mods).",
       "files": {
         "pak": "https://github.com/S-e-m-a-c/Icarus-Mods/raw/main/Semac_Meta_Lantern_v1.00_P.pak",
