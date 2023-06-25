@@ -311,7 +311,7 @@ __D_ItemsStatic.json__
 		Food Decay times have been increased
 		Removed Item.Equip.Quickbar from Meta Canteen and Meta Oxygen tank to prevent them from landing in the Hotbar when "Taking all" from dropship  
 		Meta Canteen and Meta Oxygen tank come Prefilled (Curently not working, but does save fill state when returning to orbit  
-		Replaced Meta Bandage with a Meta Lantern that can be refilled
+		Replaced Meta Bandage with a Meta Lantern
 		Meta Furnace now smelts the same as a Concrete Furnace 
 		Crocodile now needs a T2 Skinning Knife
 		Meta Radar does not need to go in G slot anymore
@@ -400,7 +400,7 @@ __D_ItemTemplate.json__
 		Increased Meta Repair Item stack to 10
 		Added new Body_Attachment_Module_Capacity data
 		Added JimK Pistols and Rifle data
-		Added Meta Lantern prefill data
+		Added Meta Lantern
 
 
 __D_AfflictionChance.json__
@@ -717,6 +717,7 @@ __D_Durable.json__
 		Increased Durability of Hunting Rifle to 25000
 		Increased Durability of Pistol to 7500
 		Increased Durability of Bolt Action Rifle to 15000
+		Increased Durability of Lantern to 5000
 
 
 __D_Energy.json__
@@ -850,7 +851,6 @@ __D_Fillable.json__
 		Decreased Stored Units of Shengong Oxygen Tank to 6000
 		Increased Stored Units of Lantern to 2500
 		Increased Stored Units of Biofuel Lamp to 5000
-		Added Meta Lantern Item
 
 
 __D_Generator.json__
@@ -879,7 +879,7 @@ __D_Itemable.json__
 		Reduced weight of Wood Stacks to 30000
 		Added Item_Attachment_Module_Capacity_1
 		Added Item_Attachment_Module_Capacity_2
-		Added Mete Lantern
+		Added Meta Lantern
 		Added JimK Pistols
 		Added JimK Rifles
 		Added JimK Sniper Rifle
